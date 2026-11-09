@@ -12,7 +12,7 @@
 
 ![Infrastructure Diagram](assets/Infra.gif)
 
-Welcome to an immersive DevSecOps learning experience! This project guides you through deploying a Tetris game on AWS EKS while mastering the art of DevSecOps.
+Welcome to an immersive DevSecOps learning experience! This project guides you through deploying a Tetris game on AWS EKS while mastering the art of DevSecOps
 
 ## Directories 📂
 
